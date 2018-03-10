@@ -4,9 +4,9 @@ Proiectare software 2018 - grupa 30231
 # Project related documents
  [Project Analysis and Desing](https://drive.google.com/file/d/1JzNvXCr_36rPIF7s0JuTQiWnGHtUoCam/view?usp=sharing)
  
- [Supplementary Specifications](https://drive.google.com/open?id=1nc161lijkAYJ8SRNBhwlFLLYZ6p49jDD)
+ [Supplementary Specifications](https://drive.google.com/file/d/1nc161lijkAYJ8SRNBhwlFLLYZ6p49jDD/view?usp=sharing)
  
- [Glossary](https://drive.google.com/open?id=1bCT0qZmYhrt_Ap_kHK8KQ_hRl7sHw2VG)
+ [Glossary](https://drive.google.com/file/d/1bCT0qZmYhrt_Ap_kHK8KQ_hRl7sHw2VG/view?usp=sharing)
   
  [Use case model](https://drive.google.com/file/d/1T_HNz-RiXSCpZovbffgBsZcYgBx3mXab/view?usp=sharing)
 
