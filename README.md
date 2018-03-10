@@ -2,7 +2,7 @@
 Proiectare software 2018 - grupa 30231
 
 # Project related documents
- [Project Analysis and Desing](https://drive.google.com/open?id=1JzNvXCr_36rPIF7s0JuTQiWnGHtUoCam)
+ [Project Analysis and Desing](https://drive.google.com/file/d/1JzNvXCr_36rPIF7s0JuTQiWnGHtUoCam/view?usp=sharing)
  
  [Supplementary Specifications](https://drive.google.com/open?id=1nc161lijkAYJ8SRNBhwlFLLYZ6p49jDD)
  
