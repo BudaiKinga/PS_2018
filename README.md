@@ -19,4 +19,4 @@ Proiectare software 2018 - grupa 30231
 - Chose project! You can inspire from [here](https://drive.google.com/file/d/1JdUh7WM-lYFaM3KVVRG9aDPY_MBrocaO/view?usp=sharing)
 
 # Week 2
-- Revision excersizes: UML modeling. Support for theoretical backgroung [here](https://drive.google.com/open?id=1BNBxaNn2QM-X51MexlzrdxKueulWKXvN). Acces file [here](https://drive.google.com/open?id=17a0_v45DD4_xZExbDE7kp8FthM1FMiwp)
+- Revision excersizes: UML modeling. Support for theoretical background [here](https://drive.google.com/open?id=1BNBxaNn2QM-X51MexlzrdxKueulWKXvN). Acces file [here](https://drive.google.com/open?id=17a0_v45DD4_xZExbDE7kp8FthM1FMiwp)
