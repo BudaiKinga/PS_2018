@@ -21,3 +21,9 @@ Dates/deadlines:[Schedule](https://drive.google.com/file/d/1DRnOf94Xou4uGvv1vDfN
 
 # Week 2
 - Revision excersizes: UML modeling. Support for theoretical background [here](https://drive.google.com/open?id=1BNBxaNn2QM-X51MexlzrdxKueulWKXvN). Acces file [here](https://drive.google.com/open?id=17a0_v45DD4_xZExbDE7kp8FthM1FMiwp)
+
+
+# Week 3
+## Lab
+
+## Project
