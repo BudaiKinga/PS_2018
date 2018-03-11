@@ -25,5 +25,8 @@ Dates/deadlines:[Schedule](https://drive.google.com/file/d/1DRnOf94Xou4uGvv1vDfN
 
 # Week 3
 ## Lab
-
+- Discussion related to first assiggment:
+- MySql install -> [Access link](https://www.youtube.com/watch?v=WuBcTJnIuzo)
+- Database modeling -> [Examples](https://www.webucator.com/tutorial/learn-sql/simple-selects/introduction-the-northwind-database-reading.cfm#tutorial)
 ## Project
+ - 
