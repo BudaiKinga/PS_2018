@@ -1,6 +1,7 @@
 # PS_2018
 Proiectare software 2018 - grupa 30231
 Dates/deadlines:[Schedule](https://drive.google.com/file/d/1DRnOf94Xou4uGvv1vDfNQ3rIFCJjTzB0/view?usp=sharing)
+[Martin Fowler: Patterns of Enterprise Application Architecture](http://disi.unal.edu.co/dacursci/sistemasycomputacion/docs/SWEBOK/Systems%20Engineering%20-%20EAA%20-%20Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Addison%20Wesley.pdf)
 
 # Project related documents
  [Project Analysis and Desing](https://drive.google.com/file/d/1JzNvXCr_36rPIF7s0JuTQiWnGHtUoCam/view?usp=sharing)
@@ -25,8 +26,13 @@ Dates/deadlines:[Schedule](https://drive.google.com/file/d/1DRnOf94Xou4uGvv1vDfN
 
 # Week 3
 ## Lab
-- Discussion related to first assiggment:
+- Discussion related to first assignment: (domain logic and data source patterns)[https://drive.google.com/file/d/1mgQJkQ0jNxlFeVAaK60l6PpD7NaWPWC8/view?usp=sharing]
 - MySql install -> [Access link](https://www.youtube.com/watch?v=WuBcTJnIuzo)
 - Database modeling -> [Examples](https://www.webucator.com/tutorial/learn-sql/simple-selects/introduction-the-northwind-database-reading.cfm#tutorial)
+- [Assignment 1](https://drive.google.com/file/d/1B7uFwRY1sAdEvdAqUcUmoqq-0x5AB67U/view?usp=sharing)
+- [Assignment Analysis and Design Document](https://drive.google.com/file/d/1eSb5RWd8c3dgXFukD2knMcHI7QzhMMV5/view?usp=sharing)
+- [Multi module maven project tutorial](https://www.youtube.com/watch?v=0CFWeVgzsqY)
+
 ## Project
- - 
+ - Discussion - problem presentation
+ - Inception: Project Analysis and Design, Supplementary Specifications, Glossary, Use case model
