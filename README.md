@@ -38,5 +38,5 @@ Grades, attendance and project information [here](https://docs.google.com/spread
 - [Install MySql to Windows 10](https://www.youtube.com/watch?v=WuBcTJnIuzo)
 
 ## Project
- - Discussion - problem presentation
+ - Discussion - problem presentation [Upload here PrenumeNume_projectDescription.doc](https://drive.google.com/drive/folders/1qCOaBFek8vP2LhTdBdsrmTihF7bHJME_?usp=sharing)
  - Inception: Project Analysis and Design, Supplementary Specifications, Glossary, Use case model
