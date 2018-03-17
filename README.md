@@ -1,6 +1,6 @@
 # PS_2018
 Proiectare software 2018 - grupa 30231
-Dates/deadlines:[Schedule](https://drive.google.com/file/d/1DRnOf94Xou4uGvv1vDfNQ3rIFCJjTzB0/view?usp=sharing)
+Dates/deadlines: [Schedule](https://drive.google.com/file/d/1yixYXtF1GrX3H2FMd64LbllxBOs0jNHa/view?usp=sharing)
 
 Grades, attendance and project information [here](https://docs.google.com/spreadsheets/d/1Qw96_j3iRAobY9pcbgQZNgnH2GKJs6U46Q0GVN_9WQk/edit?usp=sharing).
 
