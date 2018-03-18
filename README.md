@@ -40,3 +40,9 @@ Grades, attendance and project information [here](https://docs.google.com/spread
 ## Project
  - Discussion - problem presentation [Upload here PrenumeNume_projectDescription.doc](https://drive.google.com/drive/folders/1qCOaBFek8vP2LhTdBdsrmTihF7bHJME_?usp=sharing)
  - Inception: Project Analysis and Design, Supplementary Specifications, Glossary, Use case model
+ 
+ # Week 4
+ ## Lab:
+ - Example code for Assignment 1 [here](https://github.com/BudaiKinga/dao_test)
+ ## Project:
+ - Deliverables: Project Analysis and Design (I.Project Specification, II. Elaboration Iteration, V. Construction and Transition) Use Case Model, Supplementary Specification, Glossary documents
