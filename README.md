@@ -46,3 +46,4 @@ Grades, attendance and project information [here](https://docs.google.com/spread
  - Example code for Assignment 1 [here](https://github.com/BudaiKinga/dao_test)
  ## Project:
  - Deliverables: Project Analysis and Design (I.Project Specification, II. Elaboration Iteration, V. Construction and Transition) Use Case Model, Supplementary Specification, Glossary documents
+ - If you have edited your files based on discussion, upload them [here](https://drive.google.com/drive/folders/1IBl7sPH9TZEf6s62lzUvXlNWqsIfJxsL?usp=sharing). NOTE: add new revision version for each document - modifications will not be considered otherwise
