@@ -47,3 +47,12 @@ Grades, attendance and project information [here](https://docs.google.com/spread
  ## Project:
  - Deliverables: Project Analysis and Design (I.Project Specification, II. Elaboration Iteration, V. Construction and Transition) Use Case Model, Supplementary Specification, Glossary documents
  - If you have edited your files based on discussion, upload them [here](https://drive.google.com/drive/folders/1IBl7sPH9TZEf6s62lzUvXlNWqsIfJxsL?usp=sharing). NOTE: add new revision version for each document - modifications will not be considered otherwise
+ 
+ # Week 5
+ ## Lab:
+  - Assignment 1!!
+  
+  ## Project: time for Delivarable on next week
+  - Project Analysis and Design document: Complete domain design, Architectural patterns (architecture design), Component and Deployment diagrams
+  - Excersizes with component and deployment diagrams
+ 
