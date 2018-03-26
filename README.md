@@ -51,8 +51,10 @@ Grades, attendance and project information [here](https://docs.google.com/spread
  # Week 5
  ## Lab:
   - Assignment 1!!
+  - Component diagram [examples](https://www.lucidchart.com/pages/uml-component-diagram)
+  - Deployment diagram [examples](https://www.lucidchart.com/pages/uml-deployment-diagram)
   
   ## Project: time for Delivarable on next week
   - Project Analysis and Design document: Complete domain design, Architectural patterns (architecture design), Component and Deployment diagrams
-  - Excersizes with component and deployment diagrams
+
  
