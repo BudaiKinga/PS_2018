@@ -53,8 +53,10 @@ Grades, attendance and project information [here](https://docs.google.com/spread
   - Assignment 1!!
   - Component diagram [examples](https://www.lucidchart.com/pages/uml-component-diagram)
   - Deployment diagram [examples](https://www.lucidchart.com/pages/uml-deployment-diagram)
-  
+  - Upload your modifications in code/doc (both are necessary!!!) according to discussion at laboratory session [here](https://drive.google.com/drive/folders/1MhqJsEsj-AqBr7kHVt6IS95OhWbBX07K?usp=sharing)
   ## Project: time for Delivarable on next week
   - Project Analysis and Design document: Complete domain design, Architectural patterns (architecture design), Component and Deployment diagrams
+  
+ 
 
  
