@@ -57,6 +57,11 @@ Grades, attendance and project information [here](https://docs.google.com/spread
   ## Project: time for Delivarable on next week
   - Project Analysis and Design document: Complete domain design, Architectural patterns (architecture design), Component and Deployment diagrams
   
+  # Week 6
+  ## Lab: 
+  - [Assignment 2](https://drive.google.com/file/d/1h5JV6r8W9CUP8SxYRHPVJlYmZcp5fJMD/view?usp=sharing)
+  ## Project:
+  - Deliverable 2 -> Upload [here](https://drive.google.com/drive/folders/1cBt7y_oIUgdVJugePyvVqef0-Sb8PqTe?usp=sharing)
  
 
  
