@@ -1,4 +1,6 @@
 # PS_2018
+E-mail me on address: budai_kinga@yahoo.com
+
 Proiectare software 2018 - grupa 30231
 Dates/deadlines: [Schedule](https://drive.google.com/file/d/1yixYXtF1GrX3H2FMd64LbllxBOs0jNHa/view?usp=sharing)
 
