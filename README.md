@@ -65,5 +65,8 @@ Grades, attendance and project information [here](https://docs.google.com/spread
   ## Project:
   - Deliverable 2 -> Upload [here](https://drive.google.com/drive/folders/1cBt7y_oIUgdVJugePyvVqef0-Sb8PqTe?usp=sharing)
  
-
+# Week 8
+## Lab: 
+- [Assignment 3](https://drive.google.com/drive/folders/1gQjhho6-UboiF5fNOUJ6N3kMJ7nNDLd2?usp=sharing)
+- [Delayed stuff](https://drive.google.com/drive/folders/1yNcrYxPYbkHqoIe4C-hbsD6ZI4XHEXD9?usp=sharing)
  
