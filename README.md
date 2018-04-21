@@ -70,3 +70,10 @@ Grades, attendance and project information [here](https://docs.google.com/spread
 - [Assignment 2](https://drive.google.com/drive/folders/1gQjhho6-UboiF5fNOUJ6N3kMJ7nNDLd2?usp=sharing)
 - [Delayed stuff](https://drive.google.com/drive/folders/1yNcrYxPYbkHqoIe4C-hbsD6ZI4XHEXD9?usp=sharing)
  
+ # Week 9
+ - [Assignment 3](https://drive.google.com/file/d/1BvPfY7vrY46dopuKR8bDtApmrr2NgB7f/view?usp=sharing)
+ - Tutorial for Assignment 3 (source code also available): [Spring MVC login example](https://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-login-example/)
+ - In this example you have the DAO design pattern integrated. To set up the connection required for JDBC you should edit SpringBeanConfiguration.xml file by adding your credentials/scheme.
+ - Observer design pattern in [Java](https://www.tutorialspoint.com/design_pattern/observer_pattern.htm) and in [C#](https://www.codeproject.com/Tips/769084/Observer-Pattern-Csharp)
+ 
+ 
