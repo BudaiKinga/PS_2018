@@ -81,3 +81,7 @@ Grades, attendance and project information [here](https://docs.google.com/spread
  
  # Week 12
  - A3 [here](https://drive.google.com/drive/folders/1qLt_H1mbbcKCzPPD126KXEyRK6Y3dbnv?usp=sharing)
+ 
+ # Week 13
+ - You can add A3 (with a penalty of -1 grades) [here](https://drive.google.com/drive/folders/1qLt_H1mbbcKCzPPD126KXEyRK6Y3dbnv?usp=sharing)
+ - For final project the minimal requirements: 3 design patterns + documentation (4 docs)
