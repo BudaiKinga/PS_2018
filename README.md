@@ -76,5 +76,8 @@ Grades, attendance and project information [here](https://drive.google.com/file/
  - In this example you have the DAO design pattern integrated. To set up the connection required for JDBC you should edit SpringBeanConfiguration.xml file by adding your credentials/scheme.
  - Observer design pattern in [Java](https://www.tutorialspoint.com/design_pattern/observer_pattern.htm) and in [C#](https://www.codeproject.com/Tips/769084/Observer-Pattern-Csharp)
  
- # Week 
+ # Week 11
  - Delivarable 3 [here](https://drive.google.com/drive/folders/1KgPv1Q1ikWpe_S6xNB65hP3QFA4FVPSt?usp=sharing)
+ 
+ # Week 12
+ - A3 [here](https://drive.google.com/drive/folders/1qLt_H1mbbcKCzPPD126KXEyRK6Y3dbnv?usp=sharing)
