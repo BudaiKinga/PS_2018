@@ -1,5 +1,6 @@
 # IMPORTANT
-WE HAVE TWO MORE LABORATORY SESSIONS: 23 MAY (TUESDAY) ON DOROBANTILOR STREET. PLEASE BE AWARE TO HAVE OF YOUR REMAINING TIME FOR PROJECT/ASSIGMENT/DELIVARABLES
+Saptamana de recuperare: 25-29 iunie (in data de 26 in sala 108 8-10 dimineata). Puteti preda un delivrabil de proiect si/sau un assigment
+Restanta - examen: 2 iulie in aula de la instalaii
 
 
 # PS_2018
