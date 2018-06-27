@@ -9,7 +9,7 @@ E-mail me on address: budai_kinga@yahoo.com
 Proiectare software 2018 - grupa 30231
 Dates/deadlines: [Schedule](https://drive.google.com/file/d/1x3eow6cPQwtRomIhZt8MYLePsfWYw_pO/view?usp=sharing)
 
-Grades, attendance and project information [here](https://drive.google.com/file/d/1TvSGD6hJyksj5tcc0hJvCsLiHJD_wZrT/view?usp=sharing).
+Grades, attendance and project information [here](https://docs.google.com/spreadsheets/d/1fjW8iCx8V6UXTKwrza5h6wM3Ced-hXrL9rWjRa54nzs/edit?usp=sharing).
 
 [Martin Fowler: Patterns of Enterprise Application Architecture](http://disi.unal.edu.co/dacursci/sistemasycomputacion/docs/SWEBOK/Systems%20Engineering%20-%20EAA%20-%20Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Addison%20Wesley.pdf)
 
